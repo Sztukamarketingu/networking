@@ -1,0 +1,17 @@
+{
+  "name": "trening-rozmowy",
+  "owner": {
+    "name": "Tomasz Szwecki",
+    "url": "https://sztukamarketingu.pl"
+  },
+  "description": "Darmowy trening rozmowy z AI od Sztuki Marketingu",
+  "plugins": [
+    {
+      "name": "trening-rozmowy",
+      "displayName": "Trening rozmowy z AI",
+      "source": "./",
+      "description": "AI gra rozmówców, Ty ćwiczysz na żywo, potem omówienie i powtórka.",
+      "version": "0.1.0"
+    }
+  ]
+}
