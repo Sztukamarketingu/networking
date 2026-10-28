@@ -1,13 +1,13 @@
 {
-  "name": "trening-rozmowy",
-  "displayName": "Trening rozmowy z AI",
-  "version": "0.1.0",
-  "description": "Próba generalna przed ważną rozmową: AI gra rozmówców (stolik na konferencji, cała sala, klient pytający o cenę), Ty ćwiczysz na żywo, a potem dostajesz omówienie zdanie po zdaniu.",
+  "name": "networking",
+  "displayName": "Networking",
+  "version": "0.2.0",
+  "description": "Próba generalna przed networkingiem: AI gra rozmówców na konferencji, targach czy spotkaniu branżowym (jeden stolik, cała sala, ktoś pyta „ile to kosztuje?”), Ty ćwiczysz na żywo, a potem dostajesz omówienie zdanie po zdaniu.",
   "author": {
     "name": "Tomasz Szwecki",
     "url": "https://sztukamarketingu.pl"
   },
   "homepage": "https://sztukamarketingu.pl",
   "license": "MIT",
-  "keywords": ["rozmowa", "networking", "sprzedaz", "trening", "roleplay", "polski"]
+  "keywords": ["networking", "konferencja", "targi", "rozmowa", "trening", "roleplay", "polski"]
 }

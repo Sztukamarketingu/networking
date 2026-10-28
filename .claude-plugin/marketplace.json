@@ -1,17 +1,17 @@
 {
-  "name": "trening-rozmowy",
+  "name": "networking",
   "owner": {
     "name": "Tomasz Szwecki",
     "url": "https://sztukamarketingu.pl"
   },
-  "description": "Darmowy trening rozmowy z AI od Sztuki Marketingu",
+  "description": "Darmowy trening networkingu z AI od Sztuki Marketingu",
   "plugins": [
     {
-      "name": "trening-rozmowy",
-      "displayName": "Trening rozmowy z AI",
+      "name": "networking",
+      "displayName": "Networking",
       "source": "./",
-      "description": "AI gra rozmówców, Ty ćwiczysz na żywo, potem omówienie i powtórka.",
-      "version": "0.1.0"
+      "description": "AI gra rozmówców na wydarzeniu, Ty ćwiczysz na żywo, potem omówienie i powtórka.",
+      "version": "0.2.0"
     }
   ]
 }
