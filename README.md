@@ -27,7 +27,14 @@ Możesz też opisać własną sytuację na wydarzeniu, np. stoisko na targach, �
 
 ## Instalacja
 
-### Claude Code (terminal albo terminal w aplikacji na komputer)
+### Najprościej: w Claude (przeglądarka i aplikacja)
+
+1. Otwórz **Customize → Plugins**.
+2. Kliknij **+ Add → Add marketplace → Add from a repository**.
+3. Wpisz `Sztukamarketingu/networking` i kliknij **Sync**.
+4. Dodaj **Networking** z listy i w nowej rozmowie napisz „przećwiczmy networking”.
+
+### Claude Code w terminalu
 
 W Claude Code wpisz:
 
@@ -38,7 +45,7 @@ W Claude Code wpisz:
 
 Potem napisz „przećwiczmy networking” albo `/networking`.
 
-### Claude w przeglądarce i aplikacji (claude.ai)
+### Z pliku zip
 
 1. Pobierz plik `networking.zip` z zakładki **Releases** tego repozytorium.
 2. W Claude otwórz **Customize → Skills**, kliknij **+ Add → Upload skill** i wskaż pobrany plik.
